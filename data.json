@@ -1,0 +1,18 @@
+{
+  "character": [
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/Character_1.png"
+
+  ],
+  "background": [
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/Background_1.png"
+
+  ],
+  "music": [
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/music_1.mp3"
+
+  ],
+  "spectrum": [
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/music_1_spectrum.json"
+    
+]
+}
