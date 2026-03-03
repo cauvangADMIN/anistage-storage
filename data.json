@@ -24,11 +24,13 @@
 
   ],
   "music": [
-    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/music_1.mp3"
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/Draven_Godrics_-_Shinigami_(Slowed).mp3",
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/GOO_GOO_GAGA_FUNK_-_36_KINGDOM.mp3"
 
   ],
   "spectrum": [
-    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/music_1_spectrum.json"
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/Draven_Godrics_-_Shinigami_(Slowed).json",
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/GOO_GOO_GAGA_FUNK_-_36_KINGDOM.json"
     
 ]
 }
