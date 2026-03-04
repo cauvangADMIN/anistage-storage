@@ -25,12 +25,22 @@
   ],
   "music": [
     "https://pub-b026054657d841b9a1260691accddc58.r2.dev/Draven_Godrics_-_Shinigami_(Slowed).mp3",
-    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/GOO_GOO_GAGA_FUNK_-_36_KINGDOM.mp3"
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/GOO_GOO_GAGA_FUNK_-_36_KINGDOM.mp3",
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/HUEGO_(Ultra_Slowed).mp3",
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/Nakama,_Nxxkz_-_LOUCURA_LETAL_(Slowed).mp3",
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/REVENGE_(_Super_Slowed )_-1HXSX,wnorg17.mp3",
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/SEMPERO_(Super_Slowed).mp3",
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/Victory_Lap_(HOL!_REMIX).mp3"
 
   ],
   "spectrum": [
     "https://pub-b026054657d841b9a1260691accddc58.r2.dev/Draven_Godrics_-_Shinigami_(Slowed).json",
-    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/GOO_GOO_GAGA_FUNK_-_36_KINGDOM.json"
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/GOO_GOO_GAGA_FUNK_-_36_KINGDOM.json",
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/HUEGO_(Ultra_Slowed).json",
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/Nakama,_Nxxkz_-_LOUCURA_LETAL_(Slowed).json",
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/REVENGE_(_Super_Slowed )_-1HXSX,wnorg17.json",
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/SEMPERO_(Super_Slowed).json",
+    "https://pub-b026054657d841b9a1260691accddc58.r2.dev/Victory_Lap_(HOL!_REMIX).json"
     
 ]
 }
